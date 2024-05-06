@@ -1,0 +1,16 @@
+{
+  "name": "dscc",
+  "version": "0.0.0",
+  "description": "DSCC",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  },
+  "eslintConfig": {},
+  "dependencies": {
+    "arabize": "^1.0.0"
+  }
+}
